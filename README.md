@@ -4,7 +4,7 @@
 ![Packagist Downloads (custom server)](https://img.shields.io/packagist/dt/automatec/tools?server=https%3A%2F%2Fpackagist.org)
 
 
-Uma classe ultilitária para facilitar validações e máscaras de inputs
+Uma classe de utilitários para criação de máscaras e validações de inputs.
 
 ### Como utilizar
 
