@@ -11,7 +11,7 @@ Uma classe ultilitária para facilitar validações e máscaras de inputs
 Adicione a library
 
 ```sh
-$ composer require automatec/tools
+composer require automatec/tools
 ```
     
 Adicione o autoload.php do composer no seu arquivo PHP.
