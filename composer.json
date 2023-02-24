@@ -1,6 +1,6 @@
 {
     "name": "automatec/tools",
-    "description": "Uma classe ultilitária para facilitar validações e máscaras de inputs",
+    "description": "Uma classe de utilitários para criação de máscaras e validações de inputs.",
     "keywords": ["tools", "php"],
     "license": "MIT",
     "authors": [
