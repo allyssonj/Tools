@@ -17,7 +17,7 @@ class Tools
     public static function mask($txt, $mascara)
     {
         if ( $mascara == Mask::TELEFONE )
-            $mascara = strlen($txt) == 10 ? '(##)####-####' : '(##)#####-####';
+            $mascara = strlen($txt) == 10 ? '(##) ####-####' : '(##) #####-####';
 
         if ( $mascara == Mask::DOCUMENTO ) {
             if ( strlen($txt) == 11 )
