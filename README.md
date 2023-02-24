@@ -11,7 +11,7 @@ Uma classe ultilitária para facilitar validações e máscaras de inputs
 Adicione a library
 
 ```sh
-$ composer require automatec/tools
+composer require automatec/tools
 ```
     
 Adicione o autoload.php do composer no seu arquivo PHP.
@@ -23,7 +23,7 @@ require_once 'vendor/autoload.php';
 Agora basta chamar os métodos estáticos:
 
 ```php
-use Automatec\Utils\Utils as Utils;
+use Automatec\Utils\Tools as Tools;
 use Automatec\Utils\Mask as Mask;
 
 Utils::mask('31030080', Mask::CEP); //Output: 31.030-080
